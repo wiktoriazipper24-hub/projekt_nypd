@@ -33,12 +33,11 @@ py -m pytest tests/ --cov=analyzer
 
 ```
 analyzer/
-    main.py           - command-line entry point
-    stats.py          - core statistics engine
-    text_analysis.py  - text cleaning and word extraction
-    data_processing.py - dictionary loading and statistics
-    similarity.py     - cosine similarity style comparison
+    main.py
+    stats.py
+    text_analysis.py
+    data_processing.py
+    similarity.py
 tests/
-    test_*.py         - unit and integration tests
-raport.ipynb          - Jupyter notebook with statistics and charts
+raport.ipynb
 ```
