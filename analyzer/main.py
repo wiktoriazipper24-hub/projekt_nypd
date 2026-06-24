@@ -1,7 +1,7 @@
 """Command-line entry point for the Literary Master Language Analyzer."""
 
 import argparse
-from analyzer.data_processing import load_dictionary, get_dictionary_stats
+from analyzer.dictionary import load_dictionary, get_dictionary_stats
 from analyzer.text_analysis import get_works_stats, find_missing_words
 from analyzer.stats import get_top_n_words
 from analyzer.text_analysis import get_word_counter_for_file
