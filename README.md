@@ -5,7 +5,7 @@ A Python package for analyzing the language used in literary works and comparing
 ## Installation
 
 ```bash
-pip install .
+pip install git+https://github.com/wiktoriazipper24-hub/projekt_nypd.git
 ```
 
 ## Usage
