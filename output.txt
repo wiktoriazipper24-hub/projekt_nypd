@@ -1,0 +1,419 @@
+Loading dictionary from: odm.txt...
+Success! Loaded 4565466 unique word forms.
+
+=== DICTIONARY STATISTICS ===
+Total lines: 236006
+Total words: 4760935
+Unique words: 4565466
+
+Top words with most occurrences (including ties):
+  - dziadzie: 7 times
+  - kurze: 7 times
+  - Aleksandrowie: 6 times
+  - Franie: 6 times
+  - Fredzie: 6 times
+  - kicie: 6 times
+  - kole: 6 times
+  - macie: 6 times
+  - mule: 6 times
+  - porośli: 6 times
+
+Character frequencies (sorted by occurrence):
+  'i': 5470502
+  'a': 5151262
+  'o': 4774700
+  'e': 4755425
+  'n': 4173720
+  'y': 2787100
+  'w': 2718298
+  'z': 2705541
+  'r': 2562740
+  'c': 2400777
+  'm': 2191718
+  's': 1903025
+  'k': 1823241
+  't': 1633054
+  'p': 1620133
+  'u': 1504191
+  'l': 1381991
+  'd': 1214363
+  'j': 1084954
+  'ł': 1010914
+  'b': 995983
+  'g': 759054
+  'h': 703569
+  'ą': 661555
+  'ś': 531862
+  'ę': 327584
+  'ż': 292557
+  'f': 261037
+  'ó': 203479
+  'ń': 154462
+  'ć': 51261
+  'S': 41380
+  'K': 37701
+  'ź': 36180
+  'M': 30547
+  'P': 30325
+  'B': 28685
+  'W': 23172
+  'G': 20219
+  'C': 18194
+  'R': 17380
+  'D': 17079
+  'A': 16612
+  'L': 15982
+  'T': 13942
+  'J': 11903
+  'N': 11426
+  'Z': 11228
+  'O': 10591
+  'H': 10176
+  'F': 9236
+  'v': 9040
+  'E': 6339
+  'I': 5658
+  'Ł': 4721
+  'x': 3602
+  'Ś': 3532
+  'U': 3277
+  'Ż': 3226
+  'q': 2270
+  'V': 1673
+  'é': 620
+  'ü': 452
+  'X': 364
+  'Y': 334
+  'ö': 269
+  'Q': 231
+  'Ć': 184
+  'á': 91
+  'ä': 44
+  'í': 28
+  'ë': 22
+  'à': 21
+  'è': 17
+  'ç': 12
+  'Š': 11
+  'Ü': 10
+  'ú': 9
+  'Ź': 9
+  'É': 6
+  'ō': 6
+  'ê': 5
+  'â': 3
+  'å': 3
+  'ô': 3
+  'ø': 2
+  'û': 2
+  'Î': 1
+  'ñ': 1
+  'ù': 1
+  'č': 1
+  'ş': 1
+  'ū': 1
+
+Other character frequencies (sorted by occurrence):
+  '-': 31795
+  space (' '): 15499
+  ''': 5982
+  '.': 1506
+  '2': 5
+  '3': 5
+  '0': 2
+  '1': 2
+  '4': 2
+  '6': 2
+  '9': 2
+  ';': 2
+  '5': 1
+  '7': 1
+  ':': 1
+
+=== WORKS STATISTICS ===
+
+--- Stats for file: konrad_wallenrod.txt ---
+Total lines: 2291
+Total words: 12207
+Unique words: 5849
+
+Top 10 most frequent words:
+  - i: 308 times
+  - w: 276 times
+  - się: 218 times
+  - z: 184 times
+  - na: 177 times
+  - I: 137 times
+  - nie: 130 times
+  - do: 80 times
+  - W: 54 times
+  - o: 52 times
+
+Character frequencies (sorted by occurrence):
+  'i': 5872
+  'a': 5233
+  'e': 4895
+  'o': 4305
+  'z': 3817
+  'n': 3106
+  'y': 2805
+  'c': 2738
+  'r': 2659
+  's': 2649
+  'w': 2645
+  'd': 2139
+  'm': 2086
+  't': 1948
+  'k': 1835
+  'ł': 1723
+  'p': 1434
+  'u': 1427
+  'l': 1405
+  'j': 1298
+  'ę': 998
+  'b': 949
+  'g': 936
+  'h': 823
+  'ą': 798
+  'ż': 602
+  'ś': 583
+  'ó': 534
+  'ć': 352
+  'W': 297
+  'N': 195
+  'P': 176
+  'Z': 170
+  'K': 163
+  'I': 158
+  'A': 156
+  'J': 154
+  'S': 145
+  'ń': 141
+  'T': 131
+  'L': 126
+  'C': 109
+  'B': 98
+  'D': 95
+  'O': 91
+  'M': 86
+  'ź': 79
+  'G': 62
+  'f': 42
+  'U': 34
+  'R': 31
+  'H': 30
+  'Ż': 29
+  'Ś': 24
+  'E': 6
+  'Ł': 5
+  'F': 3
+  'V': 3
+  'v': 3
+  'Ó': 3
+  'q': 1
+  'é': 1
+  'Ź': 1
+
+Other character frequencies (sorted by occurrence):
+  space (' '): 11035
+  ',': 1522
+  '.': 424
+  '…': 218
+  ';': 207
+  '!': 206
+  ':': 197
+  '—': 142
+  '?': 108
+  '«': 73
+  '»': 73
+  '-': 20
+  '*': 18
+  '/': 18
+  '8': 10
+  '(': 6
+  ')': 6
+  '2': 6
+  '9': 6
+  '1': 5
+  '3': 5
+  '4': 2
+  '5': 2
+  '6': 2
+  '7': 2
+
+=== MISSING WORDS ANALYSIS ===
+Total unique missing words: 157
+Total occurrences of missing words: 201
+
+List of missing words (sorted by frequency, then alphabetically):
+  - dala: 11 times
+  - Halban: 8 times
+  - Wilija: 5 times
+  - pogląda: 4 times
+  - wolnelektury: 4 times
+  - Halbana: 3 times
+  - Halbanem: 2 times
+  - Halbanie: 2 times
+  - Ledwiem: 2 times
+  - Lettów: 2 times
+  - Maryjenburskiej: 2 times
+  - Myśliłam: 2 times
+  - Poglądają: 2 times
+  - Winrycha: 2 times
+  - https: 2 times
+  - pióry: 2 times
+  - pjany: 2 times
+  - pogladał: 2 times
+  - stoła: 2 times
+  - ujedziem: 2 times
+  - wyd: 2 times
+  - Art: 1 times
+  - Biegą: 1 times
+  - Biegę: 1 times
+  - Dovete: 1 times
+  - Dźwignionych: 1 times
+  - Garony: 1 times
+  - Gesang: 1 times
+  - Gotowem: 1 times
+  - Halbanowi: 1 times
+  - Harpija: 1 times
+  - Jakem: 1 times
+  - Jakiemi: 1 times
+  - Kiejstutówna: 1 times
+  - Kłejpedy: 1 times
+  - Leben: 1 times
+  - Mamyż: 1 times
+  - Maryjenburga: 1 times
+  - Maryjenburgu: 1 times
+  - Miałaż: 1 times
+  - Muss: 1 times
+  - Niedzialkowska: 1 times
+  - Nowogroda: 1 times
+  - Obiegę: 1 times
+  - Ottomana: 1 times
+  - Palemona: 1 times
+  - Pomyślił: 1 times
+  - Rodzicy: 1 times
+  - Swentoroga: 1 times
+  - Szyller: 1 times
+  - Treutell: 1 times
+  - Tylkośmy: 1 times
+  - Usechną: 1 times
+  - Wczora: 1 times
+  - Wczoraśmy: 1 times
+  - Winrych: 1 times
+  - Wybieży: 1 times
+  - Wyniść: 1 times
+  - Znikniem: 1 times
+  - Złączym: 1 times
+  - adunque: 1 times
+  - art: 1 times
+  - artlibre: 1 times
+  - bezprzytomność: 1 times
+  - biegą: 1 times
+  - biesiadniczym: 1 times
+  - bisogna: 1 times
+  - będziem: 1 times
+  - będęż: 1 times
+  - combattere: 1 times
+  - come: 1 times
+  - czerpa: 1 times
+  - częstośmy: 1 times
+  - dobiegę: 1 times
+  - drzewy: 1 times
+  - drżącemi: 1 times
+  - due: 1 times
+  - dzieciniałem: 1 times
+  - essere: 1 times
+  - gasnęły: 1 times
+  - generazioni: 1 times
+  - herezyję: 1 times
+  - jakiemi: 1 times
+  - krośnach: 1 times
+  - krośną: 1 times
+  - krucyjatach: 1 times
+  - kryjomu: 1 times
+  - kładnie: 1 times
+  - leben: 1 times
+  - ledwiem: 1 times
+  - lepiejż: 1 times
+  - licence: 1 times
+  - malowne: 1 times
+  - manzor: 1 times
+  - menestrela: 1 times
+  - moję: 1 times
+  - mordujem: 1 times
+  - myśliła: 1 times
+  - myśliłem: 1 times
+  - młodu: 1 times
+  - naczerniony: 1 times
+  - obaczym: 1 times
+  - obradnej: 1 times
+  - oddźwierna: 1 times
+  - odjedziem: 1 times
+  - ogniów: 1 times
+  - org: 1 times
+  - orlemi: 1 times
+  - ośmset: 1 times
+  - padniem: 1 times
+  - patrzając: 1 times
+  - podnoża: 1 times
+  - podnoże: 1 times
+  - poglądać: 1 times
+  - poglądał: 1 times
+  - przeboli: 1 times
+  - przystygli: 1 times
+  - przyśli: 1 times
+  - pójdziem: 1 times
+  - rozrzedniała: 1 times
+  - runących: 1 times
+  - rymownym: 1 times
+  - rówiennic: 1 times
+  - samemi: 1 times
+  - sapere: 1 times
+  - siądziem: 1 times
+  - skrzydły: 1 times
+  - soll: 1 times
+  - sono: 1 times
+  - spółbraci: 1 times
+  - spółrodaków: 1 times
+  - stąpi: 1 times
+  - takiemi: 1 times
+  - tobąśmy: 1 times
+  - ukosa: 1 times
+  - unsterblich: 1 times
+  - untergehen: 1 times
+  - upornej: 1 times
+  - uszczyknąć: 1 times
+  - volpe: 1 times
+  - wczora: 1 times
+  - widzim: 1 times
+  - wiosły: 1 times
+  - wonia: 1 times
+  - wrzasło: 1 times
+  - wstrząśnionej: 1 times
+  - wynidź: 1 times
+  - wyrzeczmy: 1 times
+  - zaciemił: 1 times
+  - zapuszczańskiej: 1 times
+  - zaświécę: 1 times
+  - zdradnie: 1 times
+  - zostawim: 1 times
+  - złowieszczemi: 1 times
+  - święcim: 1 times
+  - świętemi: 1 times
+  - żebrające: 1 times
+
+=== TOP 10 FREQUENT WORDS PER FILE ===
+
+--- konrad_wallenrod.txt ---
+  - i: 308 times
+  - w: 276 times
+  - się: 218 times
+  - z: 184 times
+  - na: 177 times
+  - I: 137 times
+  - nie: 130 times
+  - do: 80 times
+  - W: 54 times
+  - o: 52 times

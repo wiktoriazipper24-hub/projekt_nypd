@@ -5,7 +5,7 @@ the dictionary."""
 from collections import Counter
 from analyzer.stats import analyze_lines
 
-punctuation_to_remove = set(""".,;:"“”"„\\/'‘’!?()[]}{-_—«»*•™$%+0123456789#""")
+punctuation_to_remove = set(""".,;:"“”"„\\/'‘’!?()[]}{-_—«»*•™$%+0123456789#…""")
 
 def clean_and_extract_words(line):
     """Removes punctuation and digits from a line and splits it into a list of words."""
