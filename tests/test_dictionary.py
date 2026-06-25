@@ -1,5 +1,5 @@
-from analyzer.data_processing import load_dictionary
-from analyzer.data_processing import get_dictionary_stats
+from analyzer.dictionary import load_dictionary
+from analyzer.dictionary import get_dictionary_stats
 
 def test_load_dictionary(tmp_path):
     dict_file = tmp_path / "odm.txt"
