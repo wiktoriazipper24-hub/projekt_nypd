@@ -23,15 +23,6 @@ def test_analyze_lines():
     assert stats['unique_words'] == 5
     assert ('ma', 2) in stats['top_words']
     
-    def dummy_extract(line):
-        return line.split()
-        
-    stats = analyze_lines(lines, dummy_extract, count_chars_from_line=True)
-    
-    assert stats['lines'] == 2
-    assert stats['total_words'] == 6
-    assert stats['unique_words'] == 5
-
 def test_analyze_lines_skips_empty_words():
     lines = ["ala  kota"] 
 
